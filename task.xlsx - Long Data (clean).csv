@@ -1,9 +1,4 @@
-School Name,School Type,School Level,Title 1 Eligible,Phone Number,Phone Type,Language,PK,K,1,2,3,4,5,6,7,8,9,10,11,12,Share Name,Answers Created At,"Hello from District Public Schools! We would like your feedback on the school calendar. Please write the numbers of all of the options below that you would support:
-
-1. Decrease the number of Early Release Days
-2. Use Virtual Learning Days
-3. Shorter summer break
-4. More Time for Parent-Teacher Conferences",
+School Name,School Type,School Level,Title 1 Eligible,Phone Number,Phone Type,Language,PK,K,1,2,3,4,5,6,7,8,9,10,11,12,Share Name,Answers Created At, Feedback,
 School 1,Public,Elementary School,TRUE,377-780-381,mobile,English,0,0,0,0,0,1,0,0,0,0,0,0,0,0,TRUE,1/31/23 17:26,1,
 School 1,Public,Elementary School,TRUE,847-636-531,mobile,English,0,1,0,0,0,0,0,0,0,0,0,0,0,0,TRUE,1/31/23 15:55,1,
 School 1,Public,Elementary School,TRUE,357-333-861,mobile,English,0,0,2,0,0,0,0,0,0,0,0,0,0,0,TRUE,1/31/23 16:00,1,
